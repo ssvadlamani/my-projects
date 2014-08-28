@@ -1,0 +1,12 @@
+
+.metadata
+*/target/*
+*/target/**
+target/
+Servers/
+.classpath
+.springBeans
+.project
+.settings/
+.idea/
+*.iml
